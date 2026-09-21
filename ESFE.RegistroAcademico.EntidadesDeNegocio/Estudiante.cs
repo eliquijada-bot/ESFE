@@ -8,6 +8,7 @@ namespace ESFE.RegistroAcademico.EntidadesDeNegocio
     {
         public int Id { get; set; }
         public Int16 IdCarrera { get; set; }
+        public byte IdEstado { get; set; }
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public string Direccion { get; set; }
