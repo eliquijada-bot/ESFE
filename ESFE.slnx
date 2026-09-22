@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ESFE.RegistroAcademico.AccesoADatos/ESFE.RegistroAcademico.AccesoADatos.csproj" />
+  <Project Path="ESFE.RegistroAcademico.Documentacion/ESFE.RegistroAcademico.Documentacion.csproj" Id="abb7ca3f-6a2e-4410-ae41-01a831183cb0" />
   <Project Path="ESFE.RegistroAcademico.EntidadesDeNegocio/ESFE.RegistroAcademico.EntidadesDeNegocio.csproj" />
   <Project Path="ESFE.RegistroAcademico.LogicaDeNegocios/ESFE.RegistroAcademico.LogicaDeNegocios.csproj" />
   <Project Path="ESFE.RegistroAcademico.UI.WindowsForm/ESFE.RegistroAcademico.UI.WindowsForm.csproj" />
